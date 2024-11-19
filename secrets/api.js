@@ -1,0 +1,1 @@
+export const bearerTokenMovies = "your movie db api key"
